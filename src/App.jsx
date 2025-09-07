@@ -6,7 +6,7 @@ import Projects from './pages/Projects'
 
 const App = () => {
   return (
-    <div className='text-red-600'>
+    <div className='text-white'>
       {/* <Link className='text-blue-500 mr-4 ' to='/'>Home</Link>
       <Link className='text-blue-500 mr-4 ' to='/agence'>Agence</Link>
       <Link className='text-blue-500 mr-4 ' to='/projects'>Projects</Link> */}
